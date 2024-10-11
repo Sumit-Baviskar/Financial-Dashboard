@@ -2,7 +2,7 @@
 # :chart_with_upwards_trend: **Financial Dashboard ( Excel Project )** :chart_with_upwards_trend:
 
 
-# :paperclip: **Introduction :** :paperclip:
+# :paperclip: **Introduction :** 
 
 The analysis of revenue managed by different account managers from 2019 to 2022 provides valuable insights into the business performance and growth trends over time. By examining the detailed data, we can identify patterns of success, areas needing improvement, and external factors that may have influenced revenue generation. This analysis not only highlights individual achievements but also sheds light on the collective performance of the business. For instance, top-performing account managers like Rahul Singh and Natasha Bangera have displayed consistent growth in revenue, contributing significantly to the overall success of the company. On the other hand, some account managers have faced challenges, struggling to maintain a steady revenue stream across the years.
 
@@ -10,9 +10,177 @@ The variation in performance among account managers reveals potential opportunit
 
 With this context in mind, we can proceed to examine the key observations and insights that emerged from this analysis, followed by targeted recommendations to guide the business forward.
 
-# :paperclip: **Purpose :**  :paperclip:
+# :paperclip: **Purpose :**  
 
 The purpose of this analysis is to thoroughly examine the revenue trends managed by different account managers over the period from 2019 to 2022. By identifying the variations in performance, it aims to uncover key success drivers, challenges faced, and market conditions that influenced the company's revenue growth. The insights drawn from this analysis are intended to guide strategic decision-making for enhancing the effectiveness of account management, optimizing revenue generation, and improving overall business performance. By providing targeted recommendations, the goal is to support the company in achieving sustained growth and competitive advantage in the market.
+
+# :paperclip: **Business Question :**  
+
+
+
+**1. How did the total revenue trend over the years from 2019 to 2022?**
+
+
+**2. Which product containers contribute the most to the average profit margin ?**
+
+
+**3. Which order priorities generate the highest revenue ?**
+
+
+**4. Which product category has the highest order quantity ?**
+
+
+**5. Which state has the highest customer count ?**
+
+
+**6. How do different customer types impact the costs incurred by the business ?**
+
+
+**7. What is the total profit margin achieved by the business ?**
+
+
+**8. What is the total investment made by the business ?**
+
+
+**9. What is the total number of orders received ?** 
+
+
+**10. How have the revenues managed by each account manager changed from 2019 to 2022, and which managers demonstrated consistent growth or decline over this period ?**
+
+
+
+# :paperclip: **Business Solution :**  
+
+
+
+**1. How did the total revenue trend over the years from 2019 to 2022?**
+
+ - **Observation :** The revenue shows a positive trend, increasing from 2019 to 2021 before experiencing a slight decline in 2022.
+
+
+ - **Key Insight :** The business experienced steady growth until 2021, indicating successful strategies or market conditions during those years. The decline in 2022 may suggest market challenges or changes in customer demand that need to be addressed.
+
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+**2. Which product containers contribute the most to the average profit margin ?**
+
+ - **Observation :** **Jumbo Drum and Large Box** have the highest average profit margins, while Wrap Bag has the lowest.
+
+ - **Key Insight :** Focusing on increasing sales of Jumbo Drums and Large Boxes could boost overall profitability, as they are the most lucrative product containers.
+
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+**3. Which order priorities generate the highest revenue ?**
+ 
+ - **Observation :** **High priority orders** generate the most revenue, followed closely by low and medium priority orders. Critical orders contribute the least to total revenue.
+
+ - **Key Insight :** Improving service levels for high and low priority orders could enhance revenue further. It may also be beneficial to evaluate strategies to increase revenue from critical orders.
+
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+**4. Which product category has the highest order quantity ?**
+
+ - **Observation :** **Office Supplies** lead significantly in order quantity, followed by **Technology, with Furniture** having the lowest order quantity.
+
+ - **Key Insight :** The demand for Office Supplies is notably higher, suggesting a core focus for business growth. There may be opportunities to increase marketing efforts for Furniture and Technology categories to balance the distribution of orders.
+
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+**5. Which state has the highest customer count ?**
+
+ - **Observation :** **Maharashtra** has the largest share of customers (62%), followed by Delhi (28%), and Goa (10%).
+
+ - **Key Insight :** Maharashtra is a key market for the business, making it essential to maintain strong customer relationships there. Exploring growth strategies in Delhi and Goa could help in expanding the customer base further.
+
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+**6. How do different customer types impact the costs incurred by the business ?**
+
+ - **Observation :** Corporate customers have the highest associated costs across shipping, profit margins, and cost prices. Small Businesses and Home Office customers show moderate costs.
+
+
+ - **Key Insight :** Managing costs for Corporate customers effectively could lead to significant savings. The focus should also be on optimizing shipping and cost management for Small Businesses and Home Office segments to maintain profitability.
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+**7. What is the total profit margin achieved by the business ?**
+
+ - **Observation :** The total profit margin is ₹22,64,006.
+
+
+ - **Key Insight :** The profit margin indicates the overall profitability of the business. Evaluating the factors contributing to this margin and identifying areas for improvement can help boost profitability.
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+**8. What is the total investment made by the business ?**
+
+ - **Observation :** The total investment amounts to ₹31,12,712.
+
+ - **Key Insight :** Understanding the return on this investment is crucial for assessing the effectiveness of resource allocation. It is important to ensure that the investment is yielding proportionate returns to sustain long-term growth.
+
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+**9. What is the total number of orders received ?** 
+
+
+ - **Observation :** The total order count is 27,060.
+
+
+ - **Key Insight :** A high order volume can be a positive indicator of demand. Monitoring trends in order volumes over time can help the business adjust inventory and resource planning to maintain efficient operations.
+   
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+**10. How have the revenues managed by each account manager changed from 2019 to 2022, and which managers demonstrated consistent growth or decline over this period ?**
+
+**Observation :** The data reveals varying revenue trends among account managers from 2019 to 2022. Some managers, like Rahul Singh and Natasha Bangera, show a consistent increase in revenue across the years, achieving the highest grand totals of ₹14,690,793.13 and ₹13,947,531.92, respectively. Megha Jha also saw a significant rise, peaking in 2021 with ₹6,821,915.88. In contrast, Arjun Patel and Tarun Kumar show negative performance in certain years, particularly with drops in 2020 and 2019, as indicated by the red-shaded values. Despite a recovery in the subsequent years, their overall revenue remains comparatively lower. The sparklines provide a quick visual trend, showing steady growth for managers like Anil Chopra and Rahul Singh, while fluctuating trends are visible for Sunil Mehta and Tanvi Basu.
+
+**Key Insights:**
+
+  - **Top Performers :** Rahul Singh and Natasha Bangera stand out as top performers, consistently increasing their revenue contributions year-on-year. Their strategies or client relationships might be worth analyzing to replicate success across other accounts.
+
+  - **Underperformers :** **Arjun Patel and Tarun Kumar** faced significant challenges, particularly in 2019 and 2020. The drop in revenues could indicate lost clients, market changes, or other internal challenges. Investigating the reasons behind this decline could help address similar issues for other managers.
+
+  - **Significant Growth in 2021 :** Several managers, including Megha Jha and Harsh Gupta, saw their highest revenue spikes in 2021, indicating a potential market boom or successful campaigns during that year. Understanding what drove this growth could be key to planning future strategies.
+
+  - **Strategic Focus for Improvement :** Managers like Anil Chopra and Sunil Mehta showed steady growth but may benefit from targeted strategies to achieve similar high performance as Rahul Singh. Their performance can be boosted by focusing on high-growth sectors or improving client retention.
+
+  - **Overall Revenue Trend :** The grand total shows that the company's overall revenue has increased consistently from 2019 to 2021, with a slight decline in 2022. This reflects an overall positive performance but suggests that external factors or market conditions in 2022 might have affected business growth. Addressing these external influences could help regain the momentum in future years.
+
+This detailed analysis highlights areas for potential growth, underperformance, and strategies for improvement, making it a valuable tool for strategic planning.
+
+**Pivot Table :**
+
+
+![Screen Shot 2024-10-11 at 9 20 08 PM](https://github.com/user-attachments/assets/9a1f2afe-de4c-4eab-a093-927d731ef0fc)
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+
+
+# **Key Observations and Insights :**
+
+  - **Top Performers :** **Rahul Singh and Natasha Bangera** have shown exceptional performance, maintaining a steady upward trend in their revenues over the years. Their approaches to client management, market penetration, or product focus could serve as a model for other account managers.
+
+  - **Underperformers :** Arjun Patel and Tarun Kumar faced revenue declines in specific years, particularly in 2019 and 2020. The negative figures highlight potential issues such as client attrition, ineffective sales strategies, or changes in market demand for their specific portfolios.
+
+  - **2021 Revenue Spike :** Many account managers, including Megha Jha and Harsh Gupta, recorded their highest revenues in 2021. This trend suggests that there might have been favorable market conditions, successful marketing campaigns, or improved service offerings that year, contributing to the surge.
+
+  - **Fluctuating Performers :** Account managers like Sunil Mehta and Tanvi Basu exhibit inconsistent revenue patterns across the years. While their overall performance remains positive, addressing the variability in their yearly revenues could help stabilize and improve their contributions.
+
+  - **Company-Wide Revenue Trends :** The overall company revenue increased consistently from 2019 to 2021, showing strong growth momentum. However, the slight dip in 2022 suggests that external factors such as market saturation, economic downturns, or competitive pressures may have impacted growth. Understanding and addressing these factors can be key to regaining the growth trajectory.
+
+
+
+
 
 
 
@@ -22,9 +190,9 @@ The purpose of this analysis is to thoroughly examine the revenue trends managed
 
 
 
-# :key: **Final Recommendation :**  :key:
+# :key: **Final Recommendation :**  
 
-- To optimize revenue generation and sustain long-term growth, the company should consider the following strategic recommendations:
+To optimize revenue generation and sustain long-term growth, the company should consider the following strategic recommendations:
 
   - **Leverage Best Practices from Top Performers :** Analyze the strategies and client management techniques employed by Rahul Singh and Natasha Bangera. Implement these practices across other account managers through targeted training sessions or mentorship programs to uplift overall performance.
 
@@ -37,7 +205,7 @@ The purpose of this analysis is to thoroughly examine the revenue trends managed
   - **Analyze Market Trends to Address 2022 Decline :** Conduct a comprehensive market analysis to understand the external factors that might have led to the revenue decline in 2022. This could involve evaluating competitor strategies, economic conditions, or shifts in consumer preferences. Using this data, the company can refine its approach to better align with current market dynamics.
 
 
-# :key: **Conclusion :**  :key:
+# :key: **Conclusion :**  
 
 In conclusion, the analysis of revenue trends managed by various account managers from 2019 to 2022 reveals significant insights into the company's performance and strategic opportunities. While some account managers have shown remarkable growth, others have faced challenges, emphasizing the need for targeted interventions. By leveraging the best practices of top performers, addressing the issues faced by underperformers, and capitalizing on the successful strategies from 2021, the company can create a more balanced and effective revenue strategy. Additionally, understanding the market dynamics that influenced the 2022 revenue dip will be crucial for regaining growth momentum.
 
