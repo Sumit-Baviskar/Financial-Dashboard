@@ -1,5 +1,5 @@
 # Financial Statement Dashboard
-# :chart_with_upwards_trend: **Financial Dashboard ( Excel Project )** :chart_with_upwards_trend:
+# :chart_with_upwards_trend: **Financial Statement Dashboard ( Excel Project )** :chart_with_upwards_trend:
 
 
 # :paperclip: **Introduction :** 
