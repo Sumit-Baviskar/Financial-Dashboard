@@ -53,7 +53,7 @@ The purpose of this analysis is to thoroughly examine the revenue trends managed
 
 
 
-**1. How did the total revenue trend over the years from 2019 to 2022?**
+:Key: **1. How did the total revenue trend over the years from 2019 to 2022?**
 
  - **Observation :** The revenue shows a positive trend, increasing from 2019 to 2021 before experiencing a slight decline in 2022.
 
@@ -63,7 +63,7 @@ The purpose of this analysis is to thoroughly examine the revenue trends managed
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-**2. Which product containers contribute the most to the average profit margin ?**
+:Key: **2. Which product containers contribute the most to the average profit margin ?**
 
  - **Observation :** **Jumbo Drum and Large Box** have the highest average profit margins, while Wrap Bag has the lowest.
 
@@ -72,7 +72,7 @@ The purpose of this analysis is to thoroughly examine the revenue trends managed
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-**3. Which order priorities generate the highest revenue ?**
+:Key: **3. Which order priorities generate the highest revenue ?**
  
  - **Observation :** **High priority orders** generate the most revenue, followed closely by low and medium priority orders. Critical orders contribute the least to total revenue.
 
@@ -81,7 +81,7 @@ The purpose of this analysis is to thoroughly examine the revenue trends managed
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-**4. Which product category has the highest order quantity ?**
+:Key: **4. Which product category has the highest order quantity ?**
 
  - **Observation :** **Office Supplies** lead significantly in order quantity, followed by **Technology, with Furniture** having the lowest order quantity.
 
@@ -90,7 +90,7 @@ The purpose of this analysis is to thoroughly examine the revenue trends managed
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-**5. Which state has the highest customer count ?**
+:Key: **5. Which state has the highest customer count ?**
 
  - **Observation :** **Maharashtra** has the largest share of customers (62%), followed by Delhi (28%), and Goa (10%).
 
@@ -99,7 +99,7 @@ The purpose of this analysis is to thoroughly examine the revenue trends managed
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-**6. How do different customer types impact the costs incurred by the business ?**
+:Key: **6. How do different customer types impact the costs incurred by the business ?**
 
  - **Observation :** Corporate customers have the highest associated costs across shipping, profit margins, and cost prices. Small Businesses and Home Office customers show moderate costs.
 
@@ -108,7 +108,7 @@ The purpose of this analysis is to thoroughly examine the revenue trends managed
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-**7. What is the total profit margin achieved by the business ?**
+:Key: **7. What is the total profit margin achieved by the business ?**
 
  - **Observation :** The total profit margin is ₹22,64,006.
 
@@ -117,7 +117,7 @@ The purpose of this analysis is to thoroughly examine the revenue trends managed
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-**8. What is the total investment made by the business ?**
+:Key: **8. What is the total investment made by the business ?**
 
  - **Observation :** The total investment amounts to ₹31,12,712.
 
@@ -126,7 +126,7 @@ The purpose of this analysis is to thoroughly examine the revenue trends managed
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-**9. What is the total number of orders received ?** 
+:Key: **9. What is the total number of orders received ?** 
 
 
  - **Observation :** The total order count is 27,060.
@@ -137,7 +137,7 @@ The purpose of this analysis is to thoroughly examine the revenue trends managed
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-**10. How have the revenues managed by each account manager changed from 2019 to 2022, and which managers demonstrated consistent growth or decline over this period ?**
+:Key: **10. How have the revenues managed by each account manager changed from 2019 to 2022, and which managers demonstrated consistent growth or decline over this period ?**
 
 **Observation :** The data reveals varying revenue trends among account managers from 2019 to 2022. Some managers, like Rahul Singh and Natasha Bangera, show a consistent increase in revenue across the years, achieving the highest grand totals of ₹14,690,793.13 and ₹13,947,531.92, respectively. Megha Jha also saw a significant rise, peaking in 2021 with ₹6,821,915.88. In contrast, Arjun Patel and Tarun Kumar show negative performance in certain years, particularly with drops in 2020 and 2019, as indicated by the red-shaded values. Despite a recovery in the subsequent years, their overall revenue remains comparatively lower. The sparklines provide a quick visual trend, showing steady growth for managers like Anil Chopra and Rahul Singh, while fluctuating trends are visible for Sunil Mehta and Tanvi Basu.
 
