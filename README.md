@@ -188,7 +188,8 @@ To optimize revenue generation and sustain long-term growth, the company should 
 
 # :key: **Dashboard :**
 
-![Screen Shot 2024-10-16 at 2 24 49 PM](https://github.com/user-attachments/assets/f6df60e7-4f60-4187-9ba3-27e75c793404)
+![Screen Shot 2024-10-17 at 10 54 10 AM](https://github.com/user-attachments/assets/91c00f4c-fd26-4feb-a7c9-74b39bc47936)
+
 
 
 
